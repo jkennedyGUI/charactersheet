@@ -1,0 +1,14 @@
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\Bin\Debug\ApplicationIcon.png
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\Bin\Debug\Background.png
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\Bin\Debug\charactersheet.dll
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\Bin\Debug\charactersheet.pdb
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\Bin\Debug\AppManifest.xaml
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\Bin\Debug\charactersheet.xap
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\App.g.i.cs
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\DetailsPage.g.i.cs
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\MainPage.g.i.cs
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\charactersheet.g.resources
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\charactersheet.dll
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\charactersheet.pdb
+C:\Users\Jon\Documents\GitHub\charactersheet\charactersheet\charactersheet\obj\Debug\XapCacheFile.xml
