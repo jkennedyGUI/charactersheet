@@ -15,46 +15,52 @@ namespace charactersheet
 {
     public class ItemViewModel : INotifyPropertyChanged
     {
-        private string _lineOne;
+        private string _name;
         /// <summary>
         /// Sample ViewModel property; this property is used in the view to display its value using a Binding.
         /// </summary>
         /// <returns></returns>
-        public string LineOne
+        public string Name
         {
             get
             {
-                return _lineOne;
+                return _name;
             }
             set
             {
-                if (value != _lineOne)
+                if (value != _name)
                 {
-                    _lineOne = value;
-                    NotifyPropertyChanged("LineOne");
+                    _name = value;
+                    NotifyPropertyChanged("name");
                 }
             }
         }
 
-        private string _lineTwo;
+        private string _description;
         /// <summary>
         /// Sample ViewModel property; this property is used in the view to display its value using a Binding.
         /// </summary>
         /// <returns></returns>
-        public string LineTwo
+        public string Description
         {
             get
             {
-                return _lineTwo;
+                return _description;
             }
             set
             {
-                if (value != _lineTwo)
+                if (value != _description)
                 {
-                    _lineTwo = value;
-                    NotifyPropertyChanged("LineTwo");
+                    _description = value;
+                    NotifyPropertyChanged("description");
                 }
             }
+        }
+
+        public void makeDescription(int level, string classTitle)
+        {
+            string desc = "Level " + level + classTitle;
+            Description = desc;
         }
 
         private string _lineThree;
